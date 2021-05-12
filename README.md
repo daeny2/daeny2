@@ -42,7 +42,7 @@
 ### Contacts 📫
 
 * Github Repo Issue
-* Twitter DM: @daeny2
+* Twitter DM: @smartgram_org
 * Email: smartgram@hotmail.com
 
   <div align=center>
