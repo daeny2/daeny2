@@ -1,7 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaeny2%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-
 # Daeny&nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaeny2%2Fdaeny2)](https://hits.seeyoufarm.com) 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Daeny's%20Github&fontSize=40)
@@ -18,8 +17,8 @@
 <p>
   <em>
     저는 <b>임베디드,하둡 </b> 개발자입니다. 👨‍💻 <br>
-    다양한 재미있는 것들을 <b>개발</b>하는 걸 좋아합니다. 🎁 <br>
-    재미있고 <b>유용하고</b>✨ <b>편리한</b>🎉 소프트웨어를 만들고 싶습니다. 
+    다양한 재미있는 것들을 <b>개발</b>하는 걸 좋아합니다.  <br>
+    재미있고 <b>유용하고</b> <b>편리한</b> 소프트웨어를 만들고 싶습니다. 
   </em>  
 </p>
 
@@ -36,7 +35,7 @@
 * [814Solver](https://github.com/kimjg1119/814Solver): [BOJ 18789 814-2](https://www.acmicpc.net/problem/18789) solver using Genetic Algorithm
 -->
 
-### Contacts 📫
+### Contacts 🎁📫🎁
 
 * Github Repo Issue
 * Twitter DM: @smartgram_org
