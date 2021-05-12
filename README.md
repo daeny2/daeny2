@@ -36,7 +36,7 @@
 
 ### Contacts 🎁📫🎁
 
-* Github Repo Issue
+
 * Email: smartgram@hotmail.com
 
   <div align=center>
