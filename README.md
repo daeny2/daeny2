@@ -12,11 +12,11 @@
 
 
 
-# Daeny&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/sans.gif" width="30px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaeny2%2Fdaeny2)](https://hits.seeyoufarm.com) 
+# Daeny&nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaeny2%2Fdaeny2)](https://hits.seeyoufarm.com) 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Daeny's%20Github&fontSize=40)
 
-### Hello world!&nbsp;<img src="https://github.com/daeny2/daeny2/blob/master/earth.gif" width="24px">
+### Hello world!&nbsp;
 
 <p>
   <em>
