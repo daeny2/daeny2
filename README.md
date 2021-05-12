@@ -37,13 +37,12 @@
 ### Contacts 🎁📫🎁
 
 * Github Repo Issue
-* Twitter DM: @smartgram_org
 * Email: smartgram@hotmail.com
 
   <div align=center>
   
-  [![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://daeny2.github.io/)](https://daeny2.github.io/) 
-  [![Twitter Follow](https://img.shields.io/twitter/follow/dev_kinetic?label=Follow%20me&style=social)](https://twitter.com/smartgram_org)
+  [![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=http://smartgram.org/)](http://smartgram.org/) 
+
   </div>
   
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
