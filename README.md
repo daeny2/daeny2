@@ -28,12 +28,8 @@
 
 ![Daeny's github stats](https://github-readme-stats.vercel.app/api?username=daeny2&show_icons=true)
 [![Daeny's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kinetic27&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/daeny2)
-### Online Judge 💻
 
-* BOJ: [Daeny2](http://icpc.me/kinetic27)
-  * solvedac: [Daeny2](https://solved.ac/profile/kinetic27)
   
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kinetic27)](https://solved.ac/kinetic27)
 
 <!--
 ### Project ⚡
@@ -46,13 +42,13 @@
 ### Contacts 📫
 
 * Github Repo Issue
-* Twitter DM: @dev_kinetic
-* Email: aheui@kakao.com
+* Twitter DM: @daeny2
+* Email: smartgram@hotmail.com
 
   <div align=center>
   
-  [![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://kinetic27.github.io/)](https://kinetic27.github.io/) 
-  [![Twitter Follow](https://img.shields.io/twitter/follow/dev_kinetic?label=Follow%20me&style=social)](https://twitter.com/dev_kinetic)
+  [![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://daeny2.github.io/)](https://daeny2.github.io/) 
+  [![Twitter Follow](https://img.shields.io/twitter/follow/dev_kinetic?label=Follow%20me&style=social)](https://twitter.com/smartgram_org)
   </div>
   
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
