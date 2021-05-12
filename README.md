@@ -1,6 +1,6 @@
 
 
-# Welcome to Daeny's world! &nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaeny2%2Fdaeny2)](https://hits.seeyoufarm.com) 
+# Welcome to Daeny's hub! &nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaeny2%2Fdaeny2)](https://hits.seeyoufarm.com) 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Daeny's%20Github&fontSize=30)
 
