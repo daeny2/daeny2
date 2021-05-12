@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daeny2&show_icons=true&theme=radical)
+
 
 
 
@@ -12,7 +12,7 @@
 
 
 
-# Kinetic27&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/sans.gif" width="30px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKinetic27%2FKinetic27)](https://hits.seeyoufarm.com) 
+# Daeny&nbsp;<img src="https://github.com/Kinetic27/Kinetic27/blob/master/sans.gif" width="30px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaeny2%2Fdaeny2)](https://hits.seeyoufarm.com) 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Daeny's%20Github&fontSize=40)
 
